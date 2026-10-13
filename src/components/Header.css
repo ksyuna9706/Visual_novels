@@ -1,0 +1,41 @@
+.header {
+    margin-top: 55.7px;
+    margin-left: 100px;
+    display: flex;
+    color: aliceblue;
+    width: 1238.62px;
+    /* justify-content: baseline; */
+        align-items:center;
+
+}
+
+.logoHead {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+  font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    margin-right:213px ;
+}
+
+.artic{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    display: flex;
+    list-style: none;
+    justify-content: baseline;
+    margin-right: 213px;
+     
+}
+.artic li{
+    margin-right: 40px;
+}
+a{
+   text-decoration: none;
+   color: aliceblue;
+}
+a:hover{
+    color: blueviolet;
+}

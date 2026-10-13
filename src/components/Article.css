@@ -1,0 +1,66 @@
+.article{
+    background: url("Artboard\ 1\ 1\ 1.webp");
+    border-radius: 10px;
+    filter: brightness(130%);
+    background-size:cover;
+    background-position: right ;
+    margin-left: 103px;
+
+}
+
+.article2 {
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 70px;
+
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 20px;
+    flex-wrap: wrap;
+
+}
+span{
+    background-image: url("/src/ffcaea816597a8b3f358db163ec4d27bdb603521.png");
+    background-size: cover;
+     -webkit-background-clip: text; 
+  background-clip: text;  
+  color: transparent;
+ 
+}
+button{
+  padding: 50px 26px; 
+  width: 300px;
+background: url("/src/ffcaea816597a8b3f358db163ec4d27bdb603521.png");
+background-position: center;
+background-size: cover;
+border-radius: 20px;
+color: aliceblue;
+font-size: 20px;
+font-weight: bold;
+ box-shadow: 10px 0px 0x gray;
+ cursor: pointer;
+}
+.otz{
+    display: flex;
+}
+
+.mod p{
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.bld{
+    font-weight: bold;
+}
+
+.vis{
+    color: aliceblue;
+    text-align: left;
+    font-size: 18px;
+}
