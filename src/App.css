@@ -1,10 +1,11 @@
 .App {
   text-align: center;
-  background: #2D1E6B;
- /* background-image: url("ffcaea816597a8b3f358db163ec4d27bdb603521.png"); */
- /* background-position: center; */
- /* background-repeat: no-repeat; */
-   /* background-size: cover; */
+  /* background: url("ffcaea816597a8b3f358db163ec4d27bdb603521.png"); */
+ background-image: url("Artboard\ 1\ 1\ 2.webp");
+ background-position: left;
+ background-repeat: no-repeat;
+   background-size: cover;
+  
   max-width: 1440px;
   height: auto;
   margin: 0 auto;
